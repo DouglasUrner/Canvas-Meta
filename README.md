@@ -4,10 +4,13 @@ Meta repository of links to Canvas related repositories.
 
 ## Templates
 
-* [Generic Page]()
+* [Generic Page](https://github.com/DouglasUrner/canvas-page-template)
 * [Generic Assignment]()
-* [GDP Page]()
-* [GDP Assignment]()
+
+### Game Design & Programming
+
+* [Create with Code (CwC) Page]()
+* [CwC Assignment]()
 
 ## Jekyl Resources
 
