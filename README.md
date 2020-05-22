@@ -15,7 +15,7 @@ Meta repository of links to Canvas related repositories.
 ### CS Discoveries
 
 * [CS Discoveries Page]()
-* [CS Discoveries Assignment(https://github.com/DouglasUrner/canvas-csd-template)
+* [CS Discoveries Assignment](https://github.com/DouglasUrner/canvas-csd-template)
 
 ### Game Design & Programming
 
