@@ -9,8 +9,8 @@ Meta repository of links to Canvas related repositories.
 
 ### AP CS Principles
 
-* [CSP Page]()
-* [CSP Assignment](https://github.com/DouglasUrner/canvas-cwc-template)
+* [CSP Page](https://github.com/DouglasUrner/canvas-page-template)
+* [CSP Assignment](https://github.com/DouglasUrner/canvas-assignment-template)
 
 ### CS Discoveries
 
@@ -19,8 +19,8 @@ Meta repository of links to Canvas related repositories.
 
 ### Game Design & Programming
 
-* [Create with Code (CwC) Page]()
-* [CwC Assignment]()
+* [Create with Code (CwC) Page](https://github.com/DouglasUrner/canvas-page-template)
+* [CwC Assignment](https://github.com/DouglasUrner/canvas-cwc-assignment-template)
 
 ## Jekyl Resources
 
